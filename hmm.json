@@ -1,0 +1,48 @@
+{
+  "dependencies": [
+    {
+      "name": "flixel",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "hmm",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "discord-rpc",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "hxWindowColorMode",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "hxcpp",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "hxcpp-debug-server",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "haxeui-core",
+      "type": "git",
+      "dir": null,
+      "ref": "07fc7aa8098deaea633b0726d01f83eb4ef8a832",
+      "url": "https://github.com/haxeui/haxeui-core"
+    },
+    {
+      "name": "haxeui-flixel",
+      "type": "git",
+      "dir": null,
+      "ref": "b899a4c7d7318c5ff2b1bb645fbc73728fad1ac9",
+      "url": "https://github.com/haxeui/haxeui-flixel"
+    }
+  ]
+}
